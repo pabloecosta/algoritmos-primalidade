@@ -1,5 +1,3 @@
-# biblioteca padrão do python
-
 def algoritmo():
 
     n = int(input()) # recebe o número que quer fatorar.
